@@ -5,7 +5,7 @@ tail-end embedding, left-boundary embedding, and external/internal phrase
 expansion — across 43 species of bats, birds, primates, a pinniped, and two
 cetaceans.
 
-The full manuscript is in [`paper/Sequencerecursion_Michlich09062026.pdf`](paper/Sequencerecursion_Michlich09062026.pdf)
+The full manuscript is in [`paper/Sequencerecursion_Michlich_09062026.pdf`](paper/Sequencerecursion_Michlich_09062026.pdf)
 (download to view).
 
 ![Types of recursive embedding studied in this repository.](figures/embedding_types_all5.png)
@@ -23,7 +23,7 @@ The full manuscript is in [`paper/Sequencerecursion_Michlich09062026.pdf`](paper
 
 ```
 ├── paper/
-│   └── Sequencerecursion_Michlich09062026.pdf   # the manuscript
+│   └── Sequencerecursion_Michlich_09062026.pdf   # the manuscript
 ├── src/
 │   ├── call_detection.py            # bandpass + envelope + threshold onset detection
 │   ├── recursion_pipeline.py        # feature extraction, clustering, ABA/tail/boundary tests
