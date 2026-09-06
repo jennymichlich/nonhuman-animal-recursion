@@ -8,7 +8,7 @@ cetaceans.
 The full manuscript is in [`paper/Sequence_Recursion_Research_Paper.docx`](paper/Sequence_Recursion_Research_Paper.docx)
 (download to view; GitHub does not render `.docx` files inline).
 
-![A screenshot showing the main dashboard of the application with user statistics](figures/dashboard-preview.png)
+![Types of recursive embedding studied in this repository.](figures/embedding_types_all5.png)
 
 ## Contents
 
