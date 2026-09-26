@@ -120,6 +120,10 @@ original dataset per `data/citations/data_citations.csv` or
 Nonhuman-animal-recursion v.1.0.1 (Version v1.0.1) [Computer software]. 
 Zenodo. https://doi.org/10.5281/zenodo.22543829
 
+For reference to the article associated with this codebase, please cite:
+Michlich, J. (2026). Pitch–intensity coordination in wild chimpanzee (Pan troglodytes) vocalizations:
+a robust within-call pattern, not an ontogenetic one. Zenodo. https://doi.org/10.5281/zenodo.22969361
+
 
 ## License
 
