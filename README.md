@@ -121,6 +121,8 @@ Nonhuman-animal-recursion v.1.0.1 (Version v1.0.1) [Computer software].
 Zenodo. https://doi.org/10.5281/zenodo.22543829
 
 For reference to the article associated with this codebase, please cite:
+Michlich, J. (2026). Sequence-level recursion in nonhuman vocal communication
+A comparative test of five recursion types across 43 species. Zenodo. https://doi.org/10.5281/zenodo.22969668
 
 
 
